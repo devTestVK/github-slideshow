@@ -1,6 +1,10 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
+title: "wswswwww"
+title: "wswswwww"
+title: "wswswwww"
+title: "wswswwww"
 ---
-Your text
-Use the left arrow to go back!
+Youfr text
+Use the left arrowf to go back!
